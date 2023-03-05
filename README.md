@@ -1,2 +1,4 @@
-# Aldani
-HI, I'm new Designer in Figma
+- 👋 Hi, I’m @AldaniP
+- 👀 I’m interested in UI UX Designer
+- 🌱 I’m currently learning Design in Figma
+- 📫 Contact me via email aldaniprasetyo@gmail.com
