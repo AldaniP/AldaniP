@@ -57,8 +57,8 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=aldanip&show_icons=true&theme=radical&hide_border=true" alt="Aldani's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldanip&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aldanip&show_icons=true&theme=dark&hide_border=true" alt="Aldani's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldanip&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
